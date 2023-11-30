@@ -3,3 +3,6 @@ pip install -r requirements.txt
 
 ca sa scriu in requirements.txt :
 pip freeze
+
+
+https://huggingface.co/openskyml/midjourney-v4-xl#download-model
